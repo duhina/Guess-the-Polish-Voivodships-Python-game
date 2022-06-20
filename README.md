@@ -3,7 +3,7 @@ This is a python quizz which presuming that there are 16 Voivodships of Poland a
 In this game I  used turtle and some CSV data. 
 
 There are 4 files: 
-1) csv file - contains all 16 voivodships of Poland by name and then X and Y value. You can change the data and use your own X and Y value using this code for getting mouse tclick coordinates in Python turtle:
+1) csv file - contains all 16 voivodships of Poland by name and then X and Y value. You can change the data and use your own X and Y value using the code below for getting mouse click coordinates in Python turtle:
  import turtle
 def get_mouse_click_coor(x, y):
     print(x, y)
